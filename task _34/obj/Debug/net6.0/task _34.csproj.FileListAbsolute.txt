@@ -1,0 +1,15 @@
+C:\Users\79688\Desktop\DZ_5_C#\task _34\bin\Debug\net6.0\task _34.exe
+C:\Users\79688\Desktop\DZ_5_C#\task _34\bin\Debug\net6.0\task _34.deps.json
+C:\Users\79688\Desktop\DZ_5_C#\task _34\bin\Debug\net6.0\task _34.runtimeconfig.json
+C:\Users\79688\Desktop\DZ_5_C#\task _34\bin\Debug\net6.0\task _34.dll
+C:\Users\79688\Desktop\DZ_5_C#\task _34\bin\Debug\net6.0\task _34.pdb
+C:\Users\79688\Desktop\DZ_5_C#\task _34\obj\Debug\net6.0\task _34.csproj.AssemblyReference.cache
+C:\Users\79688\Desktop\DZ_5_C#\task _34\obj\Debug\net6.0\task _34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79688\Desktop\DZ_5_C#\task _34\obj\Debug\net6.0\task _34.AssemblyInfoInputs.cache
+C:\Users\79688\Desktop\DZ_5_C#\task _34\obj\Debug\net6.0\task _34.AssemblyInfo.cs
+C:\Users\79688\Desktop\DZ_5_C#\task _34\obj\Debug\net6.0\task _34.csproj.CoreCompileInputs.cache
+C:\Users\79688\Desktop\DZ_5_C#\task _34\obj\Debug\net6.0\task _34.dll
+C:\Users\79688\Desktop\DZ_5_C#\task _34\obj\Debug\net6.0\refint\task _34.dll
+C:\Users\79688\Desktop\DZ_5_C#\task _34\obj\Debug\net6.0\task _34.pdb
+C:\Users\79688\Desktop\DZ_5_C#\task _34\obj\Debug\net6.0\task _34.genruntimeconfig.cache
+C:\Users\79688\Desktop\DZ_5_C#\task _34\obj\Debug\net6.0\ref\task _34.dll
